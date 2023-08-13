@@ -6,7 +6,7 @@ This repository contains the basic steps for train and clasificate images of veh
 For this example, use the next requirements
 
 ```
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 ## Usage
